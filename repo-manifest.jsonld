@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/coleifer/micawber/commit/3790e285a1d83131b34163488e9a18af04f50678",
       "git:hexsha": "3790e285a1d83131b34163488e9a18af04f50678",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/coleifer/micawber/commit/fde7a083fbaaf540541b747762534ac20b352ad1",
